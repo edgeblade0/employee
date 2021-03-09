@@ -1,9 +1,9 @@
 # employee
 In Branch Master
 
-Api POST
+API POST
 URL : http://localhost:9090/createEmployee
-body : 
+\n body : 
 {
   "nama" : "",
 	"alamat" : ""
