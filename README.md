@@ -3,14 +3,18 @@ In Branch Master
 
 API POST
 URL : http://localhost:9090/createEmployee
-\n body : 
+
+body : 
 {
   "nama" : "",
 	"alamat" : ""
 }
 
+
 API GET
 URL : http://localhost:9090/getEmployeeById/{userId}
+
+
 
 Database menggunakan mysql
 DB Name : employee
